@@ -1,0 +1,21 @@
+{
+  "name": "ryr",
+  "version": "0.0.1",
+  "description": "run yarn run! tool that lists the available scripts from package.json and makes it easy to run",
+  "main": "bin/index.js",
+  "bin": {
+    "y": "./bin/index.js"
+  },
+  "keywords": [
+    "yarn",
+    "cli",
+    "y",
+    "tools"
+  ],
+  "author": "Sebastian Dawidziak <sebastian@tweetgeek.pl> (https://github.com/tweetgeek)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4",
+    "cli-select": "^1.1.2"
+  }
+}
