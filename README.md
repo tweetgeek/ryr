@@ -6,13 +6,13 @@
     <a href="https://github.com/tweetgeek/ryr-cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tweetgeek/ryr-cli.svg" alt="License"></a>
 </p>
 
-<p align="center">
-Did you forget what scripts you can run with `yarn run`? *ryr-cli* will list the available scripts and your only task is to select the appropriate script.
-</p>
+Did you forget what scripts you can run with `yarn run`?
+
+**ryr-cli** will list the available scripts and your only task is to select the appropriate script.
 
 ## Installation
 
-```shell
+```bash
 npm install --global ryr-cli
 ```
 
