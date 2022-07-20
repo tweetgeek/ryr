@@ -2,18 +2,18 @@
 
 ---
 <p align="center">
-    <a href="https://www.npmjs.com/package/ryr"><img src="https://img.shields.io/npm/ryr.svg" alt="NPM"></a>
-    <a href="https://github.com/tweetgeek/ryr/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tweetgeek/ryr.svg" alt="License"></a>
+    <a href="https://www.npmjs.com/package/ryr-cli"><img src="https://img.shields.io/npm/ryr-cli.svg" alt="NPM"></a>
+    <a href="https://github.com/tweetgeek/ryr-cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tweetgeek/ryr-cli.svg" alt="License"></a>
 </p>
 
 <p align="center">
-Did you forget what scripts you can run with `yarn run`? *ryr* will list the available scripts and your only task is to select the appropriate script.
+Did you forget what scripts you can run with `yarn run`? *ryr-cli* will list the available scripts and your only task is to select the appropriate script.
 </p>
 
 ## Installation
 
 ```shell
-npm install --global ryr
+npm install --global ryr-cli
 ```
 
 ## Usage
@@ -24,4 +24,4 @@ $ y
 
 ## License
 
-[MIT](https://github.com/tweetgeek/ryr/blob/master/LICENSE)
+[MIT](https://github.com/tweetgeek/ryr-cli/blob/master/LICENSE)
