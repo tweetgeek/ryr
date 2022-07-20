@@ -1,6 +1,6 @@
 {
   "name": "ryr-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "run yarn run! tool that lists the available scripts from package.json and makes it easy to run",
   "main": "bin/index.js",
   "bin": {
