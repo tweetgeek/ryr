@@ -6,6 +6,8 @@
     <a href="https://github.com/tweetgeek/ryr-cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/tweetgeek/ryr-cli.svg" alt="License"></a>
 </p>
 
+![run yarn run](https://i.imgur.com/TgLRjed.gif)
+
 Did you forget what scripts you can run with `yarn run`?
 
 **ryr-cli** will list the available scripts and your only task is to select the appropriate script.
